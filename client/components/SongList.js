@@ -42,7 +42,7 @@ class SongList extends Component {
 				</ul>
 
 				<Link
-					to="/song/new"
+					to="/songs/new"
 					className="btn-floating btn-large red light"
 				>
 					<i className="material-icons">add</i>
